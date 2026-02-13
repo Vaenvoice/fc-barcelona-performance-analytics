@@ -188,5 +188,5 @@ streamlit run app/streamlit_app.py
 
 ## Author
 
-Pragyan  
+Vaenvoice  
 Undergraduate student focused on data science, statistical modeling, and applied analytics.
