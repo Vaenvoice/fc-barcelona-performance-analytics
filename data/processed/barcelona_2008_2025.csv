@@ -1,0 +1,647 @@
+date,hometeam,awayteam,fthg,ftag,ftr,season,is_home,goals_scored,goals_conceded,goal_difference,result,points
+31/08/08,Numancia,Barcelona,1,0,H,2008_2009,False,0,1,-1,Loss,0
+13/09/08,Barcelona,Santander,1,1,D,2008_2009,True,1,1,0,Draw,1
+21/09/08,Sp Gijon,Barcelona,1,6,A,2008_2009,False,6,1,5,Win,3
+24/09/08,Barcelona,Betis,3,2,H,2008_2009,True,3,2,1,Win,3
+27/09/08,Espanol,Barcelona,1,2,A,2008_2009,False,2,1,1,Win,3
+04/10/08,Barcelona,Ath Madrid,6,1,H,2008_2009,True,6,1,5,Win,3
+19/10/08,Ath Bilbao,Barcelona,0,1,A,2008_2009,False,1,0,1,Win,3
+25/10/08,Barcelona,Almeria,5,0,H,2008_2009,True,5,0,5,Win,3
+01/11/08,Malaga,Barcelona,1,4,A,2008_2009,False,4,1,3,Win,3
+08/11/08,Barcelona,Valladolid,6,0,H,2008_2009,True,6,0,6,Win,3
+16/11/08,Recreativo,Barcelona,0,2,A,2008_2009,False,2,0,2,Win,3
+23/11/08,Barcelona,Getafe,1,1,D,2008_2009,True,1,1,0,Draw,1
+29/11/08,Sevilla,Barcelona,0,3,A,2008_2009,False,3,0,3,Win,3
+06/12/08,Barcelona,Valencia,4,0,H,2008_2009,True,4,0,4,Win,3
+13/12/08,Barcelona,Real Madrid,2,0,H,2008_2009,True,2,0,2,Win,3
+21/12/08,Villarreal,Barcelona,1,2,A,2008_2009,False,2,1,1,Win,3
+03/01/09,Barcelona,Mallorca,3,1,H,2008_2009,True,3,1,2,Win,3
+11/01/09,Osasuna,Barcelona,2,3,A,2008_2009,False,3,2,1,Win,3
+17/01/09,Barcelona,La Coruna,5,0,H,2008_2009,True,5,0,5,Win,3
+24/01/09,Barcelona,Numancia,4,1,H,2008_2009,True,4,1,3,Win,3
+01/02/09,Santander,Barcelona,1,2,A,2008_2009,False,2,1,1,Win,3
+08/02/09,Barcelona,Sp Gijon,3,1,H,2008_2009,True,3,1,2,Win,3
+14/02/09,Betis,Barcelona,2,2,D,2008_2009,False,2,2,0,Draw,1
+21/02/09,Barcelona,Espanol,1,2,A,2008_2009,True,1,2,-1,Loss,0
+01/03/09,Ath Madrid,Barcelona,4,3,H,2008_2009,False,3,4,-1,Loss,0
+07/03/09,Barcelona,Ath Bilbao,2,0,H,2008_2009,True,2,0,2,Win,3
+15/03/09,Almeria,Barcelona,0,2,A,2008_2009,False,2,0,2,Win,3
+22/03/09,Barcelona,Malaga,6,0,H,2008_2009,True,6,0,6,Win,3
+04/04/09,Valladolid,Barcelona,0,1,A,2008_2009,False,1,0,1,Win,3
+11/04/09,Barcelona,Recreativo,2,0,H,2008_2009,True,2,0,2,Win,3
+18/04/09,Getafe,Barcelona,0,1,A,2008_2009,False,1,0,1,Win,3
+22/04/09,Barcelona,Sevilla,4,0,H,2008_2009,True,4,0,4,Win,3
+25/04/09,Valencia,Barcelona,2,2,D,2008_2009,False,2,2,0,Draw,1
+02/05/09,Real Madrid,Barcelona,2,6,A,2008_2009,False,6,2,4,Win,3
+10/05/09,Barcelona,Villarreal,3,3,D,2008_2009,True,3,3,0,Draw,1
+17/05/09,Mallorca,Barcelona,2,1,H,2008_2009,False,1,2,-1,Loss,0
+23/05/09,Barcelona,Osasuna,0,1,A,2008_2009,True,0,1,-1,Loss,0
+30/05/09,La Coruna,Barcelona,1,1,D,2008_2009,False,1,1,0,Draw,1
+29/08/10,Santander,Barcelona,0,3,A,2009_2010,False,3,0,3,Win,3
+11/09/10,Barcelona,Hercules,0,2,A,2009_2010,True,0,2,-2,Loss,0
+19/09/10,Ath Madrid,Barcelona,1,2,A,2009_2010,False,2,1,1,Win,3
+22/09/10,Barcelona,Sp Gijon,1,0,H,2009_2010,True,1,0,1,Win,3
+25/09/10,Ath Bilbao,Barcelona,1,3,A,2009_2010,False,3,1,2,Win,3
+03/10/10,Barcelona,Mallorca,1,1,D,2009_2010,True,1,1,0,Draw,1
+16/10/10,Barcelona,Valencia,2,1,H,2009_2010,True,2,1,1,Win,3
+23/10/10,Zaragoza,Barcelona,0,2,A,2009_2010,False,2,0,2,Win,3
+30/10/10,Barcelona,Sevilla,5,0,H,2009_2010,True,5,0,5,Win,3
+07/11/10,Getafe,Barcelona,1,3,A,2009_2010,False,3,1,2,Win,3
+13/11/10,Barcelona,Villarreal,3,1,H,2009_2010,True,3,1,2,Win,3
+20/11/10,Almeria,Barcelona,0,8,A,2009_2010,False,8,0,8,Win,3
+29/11/10,Barcelona,Real Madrid,5,0,H,2009_2010,True,5,0,5,Win,3
+04/12/10,Osasuna,Barcelona,0,3,A,2009_2010,False,3,0,3,Win,3
+12/12/10,Barcelona,Sociedad,5,0,H,2009_2010,True,5,0,5,Win,3
+18/12/10,Espanol,Barcelona,1,5,A,2009_2010,False,5,1,4,Win,3
+02/01/11,Barcelona,Levante,2,1,H,2009_2010,True,2,1,1,Win,3
+08/01/11,La Coruna,Barcelona,0,4,A,2009_2010,False,4,0,4,Win,3
+16/01/11,Barcelona,Malaga,4,1,H,2009_2010,True,4,1,3,Win,3
+22/01/11,Barcelona,Santander,3,0,H,2009_2010,True,3,0,3,Win,3
+29/01/11,Hercules,Barcelona,0,3,A,2009_2010,False,3,0,3,Win,3
+05/02/11,Barcelona,Ath Madrid,3,0,H,2009_2010,True,3,0,3,Win,3
+12/02/11,Sp Gijon,Barcelona,1,1,D,2009_2010,False,1,1,0,Draw,1
+20/02/11,Barcelona,Ath Bilbao,2,1,H,2009_2010,True,2,1,1,Win,3
+26/02/11,Mallorca,Barcelona,0,3,A,2009_2010,False,3,0,3,Win,3
+02/03/11,Valencia,Barcelona,0,1,A,2009_2010,False,1,0,1,Win,3
+05/03/11,Barcelona,Zaragoza,1,0,H,2009_2010,True,1,0,1,Win,3
+13/03/11,Sevilla,Barcelona,1,1,D,2009_2010,False,1,1,0,Draw,1
+19/03/11,Barcelona,Getafe,2,1,H,2009_2010,True,2,1,1,Win,3
+02/04/11,Villarreal,Barcelona,0,1,A,2009_2010,False,1,0,1,Win,3
+09/04/11,Barcelona,Almeria,3,1,H,2009_2010,True,3,1,2,Win,3
+16/04/11,Real Madrid,Barcelona,1,1,D,2009_2010,False,1,1,0,Draw,1
+23/04/11,Barcelona,Osasuna,2,0,H,2009_2010,True,2,0,2,Win,3
+30/04/11,Sociedad,Barcelona,2,1,H,2009_2010,False,1,2,-1,Loss,0
+08/05/11,Barcelona,Espanol,2,0,H,2009_2010,True,2,0,2,Win,3
+11/05/11,Levante,Barcelona,1,1,D,2009_2010,False,1,1,0,Draw,1
+15/05/11,Barcelona,La Coruna,0,0,D,2009_2010,True,0,0,0,Draw,1
+21/05/11,Malaga,Barcelona,1,3,A,2009_2010,False,3,1,2,Win,3
+29/08/10,Santander,Barcelona,0,3,A,2010_2011,False,3,0,3,Win,3
+11/09/10,Barcelona,Hercules,0,2,A,2010_2011,True,0,2,-2,Loss,0
+19/09/10,Ath Madrid,Barcelona,1,2,A,2010_2011,False,2,1,1,Win,3
+22/09/10,Barcelona,Sp Gijon,1,0,H,2010_2011,True,1,0,1,Win,3
+25/09/10,Ath Bilbao,Barcelona,1,3,A,2010_2011,False,3,1,2,Win,3
+03/10/10,Barcelona,Mallorca,1,1,D,2010_2011,True,1,1,0,Draw,1
+16/10/10,Barcelona,Valencia,2,1,H,2010_2011,True,2,1,1,Win,3
+23/10/10,Zaragoza,Barcelona,0,2,A,2010_2011,False,2,0,2,Win,3
+30/10/10,Barcelona,Sevilla,5,0,H,2010_2011,True,5,0,5,Win,3
+07/11/10,Getafe,Barcelona,1,3,A,2010_2011,False,3,1,2,Win,3
+13/11/10,Barcelona,Villarreal,3,1,H,2010_2011,True,3,1,2,Win,3
+20/11/10,Almeria,Barcelona,0,8,A,2010_2011,False,8,0,8,Win,3
+29/11/10,Barcelona,Real Madrid,5,0,H,2010_2011,True,5,0,5,Win,3
+04/12/10,Osasuna,Barcelona,0,3,A,2010_2011,False,3,0,3,Win,3
+12/12/10,Barcelona,Sociedad,5,0,H,2010_2011,True,5,0,5,Win,3
+18/12/10,Espanol,Barcelona,1,5,A,2010_2011,False,5,1,4,Win,3
+02/01/11,Barcelona,Levante,2,1,H,2010_2011,True,2,1,1,Win,3
+08/01/11,La Coruna,Barcelona,0,4,A,2010_2011,False,4,0,4,Win,3
+16/01/11,Barcelona,Malaga,4,1,H,2010_2011,True,4,1,3,Win,3
+22/01/11,Barcelona,Santander,3,0,H,2010_2011,True,3,0,3,Win,3
+29/01/11,Hercules,Barcelona,0,3,A,2010_2011,False,3,0,3,Win,3
+05/02/11,Barcelona,Ath Madrid,3,0,H,2010_2011,True,3,0,3,Win,3
+12/02/11,Sp Gijon,Barcelona,1,1,D,2010_2011,False,1,1,0,Draw,1
+20/02/11,Barcelona,Ath Bilbao,2,1,H,2010_2011,True,2,1,1,Win,3
+26/02/11,Mallorca,Barcelona,0,3,A,2010_2011,False,3,0,3,Win,3
+02/03/11,Valencia,Barcelona,0,1,A,2010_2011,False,1,0,1,Win,3
+05/03/11,Barcelona,Zaragoza,1,0,H,2010_2011,True,1,0,1,Win,3
+13/03/11,Sevilla,Barcelona,1,1,D,2010_2011,False,1,1,0,Draw,1
+19/03/11,Barcelona,Getafe,2,1,H,2010_2011,True,2,1,1,Win,3
+02/04/11,Villarreal,Barcelona,0,1,A,2010_2011,False,1,0,1,Win,3
+09/04/11,Barcelona,Almeria,3,1,H,2010_2011,True,3,1,2,Win,3
+16/04/11,Real Madrid,Barcelona,1,1,D,2010_2011,False,1,1,0,Draw,1
+23/04/11,Barcelona,Osasuna,2,0,H,2010_2011,True,2,0,2,Win,3
+30/04/11,Sociedad,Barcelona,2,1,H,2010_2011,False,1,2,-1,Loss,0
+08/05/11,Barcelona,Espanol,2,0,H,2010_2011,True,2,0,2,Win,3
+11/05/11,Levante,Barcelona,1,1,D,2010_2011,False,1,1,0,Draw,1
+15/05/11,Barcelona,La Coruna,0,0,D,2010_2011,True,0,0,0,Draw,1
+21/05/11,Malaga,Barcelona,1,3,A,2010_2011,False,3,1,2,Win,3
+29/08/11,Barcelona,Villarreal,5,0,H,2011_2012,True,5,0,5,Win,3
+10/09/11,Sociedad,Barcelona,2,2,D,2011_2012,False,2,2,0,Draw,1
+17/09/11,Barcelona,Osasuna,8,0,H,2011_2012,True,8,0,8,Win,3
+21/09/11,Valencia,Barcelona,2,2,D,2011_2012,False,2,2,0,Draw,1
+24/09/11,Barcelona,Ath Madrid,5,0,H,2011_2012,True,5,0,5,Win,3
+02/10/11,Sp Gijon,Barcelona,0,1,A,2011_2012,False,1,0,1,Win,3
+15/10/11,Barcelona,Santander,3,0,H,2011_2012,True,3,0,3,Win,3
+22/10/11,Barcelona,Sevilla,0,0,D,2011_2012,True,0,0,0,Draw,1
+25/10/11,Granada,Barcelona,0,1,A,2011_2012,False,1,0,1,Win,3
+29/10/11,Barcelona,Mallorca,5,0,H,2011_2012,True,5,0,5,Win,3
+06/11/11,Ath Bilbao,Barcelona,2,2,D,2011_2012,False,2,2,0,Draw,1
+19/11/11,Barcelona,Zaragoza,4,0,H,2011_2012,True,4,0,4,Win,3
+26/11/11,Getafe,Barcelona,1,0,H,2011_2012,False,0,1,-1,Loss,0
+29/11/11,Barcelona,Vallecano,4,0,H,2011_2012,True,4,0,4,Win,3
+03/12/11,Barcelona,Levante,5,0,H,2011_2012,True,5,0,5,Win,3
+10/12/11,Real Madrid,Barcelona,1,3,A,2011_2012,False,3,1,2,Win,3
+08/01/12,Espanol,Barcelona,1,1,D,2011_2012,False,1,1,0,Draw,1
+15/01/12,Barcelona,Betis,4,2,H,2011_2012,True,4,2,2,Win,3
+22/01/12,Malaga,Barcelona,1,4,A,2011_2012,False,4,1,3,Win,3
+28/01/12,Villarreal,Barcelona,0,0,D,2011_2012,False,0,0,0,Draw,1
+04/02/12,Barcelona,Sociedad,2,1,H,2011_2012,True,2,1,1,Win,3
+11/02/12,Osasuna,Barcelona,3,2,H,2011_2012,False,2,3,-1,Loss,0
+19/02/12,Barcelona,Valencia,5,1,H,2011_2012,True,5,1,4,Win,3
+26/02/12,Ath Madrid,Barcelona,1,2,A,2011_2012,False,2,1,1,Win,3
+03/03/12,Barcelona,Sp Gijon,3,1,H,2011_2012,True,3,1,2,Win,3
+11/03/12,Santander,Barcelona,0,2,A,2011_2012,False,2,0,2,Win,3
+17/03/12,Sevilla,Barcelona,0,2,A,2011_2012,False,2,0,2,Win,3
+20/03/12,Barcelona,Granada,5,3,H,2011_2012,True,5,3,2,Win,3
+24/03/12,Mallorca,Barcelona,0,2,A,2011_2012,False,2,0,2,Win,3
+31/03/12,Barcelona,Ath Bilbao,2,0,H,2011_2012,True,2,0,2,Win,3
+07/04/12,Zaragoza,Barcelona,1,4,A,2011_2012,False,4,1,3,Win,3
+10/04/12,Barcelona,Getafe,4,0,H,2011_2012,True,4,0,4,Win,3
+14/04/12,Levante,Barcelona,1,2,A,2011_2012,False,2,1,1,Win,3
+21/04/12,Barcelona,Real Madrid,1,2,A,2011_2012,True,1,2,-1,Loss,0
+29/04/12,Vallecano,Barcelona,0,7,A,2011_2012,False,7,0,7,Win,3
+02/05/12,Barcelona,Malaga,4,1,H,2011_2012,True,4,1,3,Win,3
+05/05/12,Barcelona,Espanol,4,0,H,2011_2012,True,4,0,4,Win,3
+12/05/12,Betis,Barcelona,2,2,D,2011_2012,False,2,2,0,Draw,1
+19/08/12,Barcelona,Sociedad,5,1,H,2012_2013,True,5,1,4,Win,3
+26/08/12,Osasuna,Barcelona,1,2,A,2012_2013,False,2,1,1,Win,3
+02/09/12,Barcelona,Valencia,1,0,H,2012_2013,True,1,0,1,Win,3
+15/09/12,Getafe,Barcelona,1,4,A,2012_2013,False,4,1,3,Win,3
+22/09/12,Barcelona,Granada,2,0,H,2012_2013,True,2,0,2,Win,3
+29/09/12,Sevilla,Barcelona,2,3,A,2012_2013,False,3,2,1,Win,3
+07/10/12,Barcelona,Real Madrid,2,2,D,2012_2013,True,2,2,0,Draw,1
+20/10/12,La Coruna,Barcelona,4,5,A,2012_2013,False,5,4,1,Win,3
+27/10/12,Vallecano,Barcelona,0,5,A,2012_2013,False,5,0,5,Win,3
+03/11/12,Barcelona,Celta,3,1,H,2012_2013,True,3,1,2,Win,3
+11/11/12,Mallorca,Barcelona,2,4,A,2012_2013,False,4,2,2,Win,3
+17/11/12,Barcelona,Zaragoza,3,1,H,2012_2013,True,3,1,2,Win,3
+25/11/12,Levante,Barcelona,0,4,A,2012_2013,False,4,0,4,Win,3
+01/12/12,Barcelona,Ath Bilbao,5,1,H,2012_2013,True,5,1,4,Win,3
+09/12/12,Betis,Barcelona,1,2,A,2012_2013,False,2,1,1,Win,3
+16/12/12,Barcelona,Ath Madrid,4,1,H,2012_2013,True,4,1,3,Win,3
+22/12/12,Valladolid,Barcelona,1,3,A,2012_2013,False,3,1,2,Win,3
+06/01/13,Barcelona,Espanol,4,0,H,2012_2013,True,4,0,4,Win,3
+13/01/13,Malaga,Barcelona,1,3,A,2012_2013,False,3,1,2,Win,3
+19/01/13,Sociedad,Barcelona,3,2,H,2012_2013,False,2,3,-1,Loss,0
+27/01/13,Barcelona,Osasuna,5,1,H,2012_2013,True,5,1,4,Win,3
+03/02/13,Valencia,Barcelona,1,1,D,2012_2013,False,1,1,0,Draw,1
+10/02/13,Barcelona,Getafe,6,1,H,2012_2013,True,6,1,5,Win,3
+16/02/13,Granada,Barcelona,1,2,A,2012_2013,False,2,1,1,Win,3
+23/02/13,Barcelona,Sevilla,2,1,H,2012_2013,True,2,1,1,Win,3
+02/03/13,Real Madrid,Barcelona,2,1,H,2012_2013,False,1,2,-1,Loss,0
+09/03/13,Barcelona,La Coruna,2,0,H,2012_2013,True,2,0,2,Win,3
+17/03/13,Barcelona,Vallecano,3,1,H,2012_2013,True,3,1,2,Win,3
+30/03/13,Celta,Barcelona,2,2,D,2012_2013,False,2,2,0,Draw,1
+06/04/13,Barcelona,Mallorca,5,0,H,2012_2013,True,5,0,5,Win,3
+14/04/13,Zaragoza,Barcelona,0,3,A,2012_2013,False,3,0,3,Win,3
+20/04/13,Barcelona,Levante,1,0,H,2012_2013,True,1,0,1,Win,3
+27/04/13,Ath Bilbao,Barcelona,2,2,D,2012_2013,False,2,2,0,Draw,1
+05/05/13,Barcelona,Betis,4,2,H,2012_2013,True,4,2,2,Win,3
+12/05/13,Ath Madrid,Barcelona,1,2,A,2012_2013,False,2,1,1,Win,3
+19/05/13,Barcelona,Valladolid,2,1,H,2012_2013,True,2,1,1,Win,3
+26/05/13,Espanol,Barcelona,0,2,A,2012_2013,False,2,0,2,Win,3
+01/06/13,Barcelona,Malaga,4,1,H,2012_2013,True,4,1,3,Win,3
+18/08/13,Barcelona,Levante,7,0,H,2013_2014,True,7,0,7,Win,3
+25/08/13,Malaga,Barcelona,0,1,A,2013_2014,False,1,0,1,Win,3
+01/09/13,Valencia,Barcelona,2,3,A,2013_2014,False,3,2,1,Win,3
+14/09/13,Barcelona,Sevilla,3,2,H,2013_2014,True,3,2,1,Win,3
+21/09/13,Vallecano,Barcelona,0,4,A,2013_2014,False,4,0,4,Win,3
+24/09/13,Barcelona,Sociedad,4,1,H,2013_2014,True,4,1,3,Win,3
+28/09/13,Almeria,Barcelona,0,2,A,2013_2014,False,2,0,2,Win,3
+05/10/13,Barcelona,Valladolid,4,1,H,2013_2014,True,4,1,3,Win,3
+19/10/13,Osasuna,Barcelona,0,0,D,2013_2014,False,0,0,0,Draw,1
+26/10/13,Barcelona,Real Madrid,2,1,H,2013_2014,True,2,1,1,Win,3
+29/10/13,Celta,Barcelona,0,3,A,2013_2014,False,3,0,3,Win,3
+01/11/13,Barcelona,Espanol,1,0,H,2013_2014,True,1,0,1,Win,3
+10/11/13,Betis,Barcelona,1,4,A,2013_2014,False,4,1,3,Win,3
+23/11/13,Barcelona,Granada,4,0,H,2013_2014,True,4,0,4,Win,3
+01/12/13,Ath Bilbao,Barcelona,1,0,H,2013_2014,False,0,1,-1,Loss,0
+14/12/13,Barcelona,Villarreal,2,1,H,2013_2014,True,2,1,1,Win,3
+22/12/13,Getafe,Barcelona,2,5,A,2013_2014,False,5,2,3,Win,3
+05/01/14,Barcelona,Elche,4,0,H,2013_2014,True,4,0,4,Win,3
+11/01/14,Ath Madrid,Barcelona,0,0,D,2013_2014,False,0,0,0,Draw,1
+19/01/14,Levante,Barcelona,1,1,D,2013_2014,False,1,1,0,Draw,1
+26/01/14,Barcelona,Malaga,3,0,H,2013_2014,True,3,0,3,Win,3
+01/02/14,Barcelona,Valencia,2,3,A,2013_2014,True,2,3,-1,Loss,0
+09/02/14,Sevilla,Barcelona,1,4,A,2013_2014,False,4,1,3,Win,3
+15/02/14,Barcelona,Vallecano,6,0,H,2013_2014,True,6,0,6,Win,3
+22/02/14,Sociedad,Barcelona,3,1,H,2013_2014,False,1,3,-2,Loss,0
+02/03/14,Barcelona,Almeria,4,1,H,2013_2014,True,4,1,3,Win,3
+08/03/14,Valladolid,Barcelona,1,0,H,2013_2014,False,0,1,-1,Loss,0
+16/03/14,Barcelona,Osasuna,7,0,H,2013_2014,True,7,0,7,Win,3
+23/03/14,Real Madrid,Barcelona,3,4,A,2013_2014,False,4,3,1,Win,3
+26/03/14,Barcelona,Celta,3,0,H,2013_2014,True,3,0,3,Win,3
+29/03/14,Espanol,Barcelona,0,1,A,2013_2014,False,1,0,1,Win,3
+05/04/14,Barcelona,Betis,3,1,H,2013_2014,True,3,1,2,Win,3
+12/04/14,Granada,Barcelona,1,0,H,2013_2014,False,0,1,-1,Loss,0
+20/04/14,Barcelona,Ath Bilbao,2,1,H,2013_2014,True,2,1,1,Win,3
+27/04/14,Villarreal,Barcelona,2,3,A,2013_2014,False,3,2,1,Win,3
+03/05/14,Barcelona,Getafe,2,2,D,2013_2014,True,2,2,0,Draw,1
+11/05/14,Elche,Barcelona,0,0,D,2013_2014,False,0,0,0,Draw,1
+17/05/14,Barcelona,Ath Madrid,1,1,D,2013_2014,True,1,1,0,Draw,1
+24/08/14,Barcelona,Elche,3,0,H,2014_2015,True,3,0,3,Win,3
+31/08/14,Villarreal,Barcelona,0,1,A,2014_2015,False,1,0,1,Win,3
+13/09/14,Barcelona,Ath Bilbao,2,0,H,2014_2015,True,2,0,2,Win,3
+21/09/14,Levante,Barcelona,0,5,A,2014_2015,False,5,0,5,Win,3
+24/09/14,Malaga,Barcelona,0,0,D,2014_2015,False,0,0,0,Draw,1
+27/09/14,Barcelona,Granada,6,0,H,2014_2015,True,6,0,6,Win,3
+04/10/14,Vallecano,Barcelona,0,2,A,2014_2015,False,2,0,2,Win,3
+18/10/14,Barcelona,Eibar,3,0,H,2014_2015,True,3,0,3,Win,3
+25/10/14,Real Madrid,Barcelona,3,1,H,2014_2015,False,1,3,-2,Loss,0
+01/11/14,Barcelona,Celta,0,1,A,2014_2015,True,0,1,-1,Loss,0
+08/11/14,Almeria,Barcelona,1,2,A,2014_2015,False,2,1,1,Win,3
+22/11/14,Barcelona,Sevilla,5,1,H,2014_2015,True,5,1,4,Win,3
+30/11/14,Valencia,Barcelona,0,1,A,2014_2015,False,1,0,1,Win,3
+07/12/14,Barcelona,Espanol,5,1,H,2014_2015,True,5,1,4,Win,3
+13/12/14,Getafe,Barcelona,0,0,D,2014_2015,False,0,0,0,Draw,1
+20/12/14,Barcelona,Cordoba,5,0,H,2014_2015,True,5,0,5,Win,3
+04/01/15,Sociedad,Barcelona,1,0,H,2014_2015,False,0,1,-1,Loss,0
+11/01/15,Barcelona,Ath Madrid,3,1,H,2014_2015,True,3,1,2,Win,3
+18/01/15,La Coruna,Barcelona,0,4,A,2014_2015,False,4,0,4,Win,3
+24/01/15,Elche,Barcelona,0,6,A,2014_2015,False,6,0,6,Win,3
+01/02/15,Barcelona,Villarreal,3,2,H,2014_2015,True,3,2,1,Win,3
+08/02/15,Ath Bilbao,Barcelona,2,5,A,2014_2015,False,5,2,3,Win,3
+15/02/15,Barcelona,Levante,5,0,H,2014_2015,True,5,0,5,Win,3
+21/02/15,Barcelona,Malaga,0,1,A,2014_2015,True,0,1,-1,Loss,0
+28/02/15,Granada,Barcelona,1,3,A,2014_2015,False,3,1,2,Win,3
+08/03/15,Barcelona,Vallecano,6,1,H,2014_2015,True,6,1,5,Win,3
+14/03/15,Eibar,Barcelona,0,2,A,2014_2015,False,2,0,2,Win,3
+22/03/15,Barcelona,Real Madrid,2,1,H,2014_2015,True,2,1,1,Win,3
+05/04/15,Celta,Barcelona,0,1,A,2014_2015,False,1,0,1,Win,3
+08/04/15,Barcelona,Almeria,4,0,H,2014_2015,True,4,0,4,Win,3
+11/04/15,Sevilla,Barcelona,2,2,D,2014_2015,False,2,2,0,Draw,1
+18/04/15,Barcelona,Valencia,2,0,H,2014_2015,True,2,0,2,Win,3
+25/04/15,Espanol,Barcelona,0,2,A,2014_2015,False,2,0,2,Win,3
+28/04/15,Barcelona,Getafe,6,0,H,2014_2015,True,6,0,6,Win,3
+02/05/15,Cordoba,Barcelona,0,8,A,2014_2015,False,8,0,8,Win,3
+09/05/15,Barcelona,Sociedad,2,0,H,2014_2015,True,2,0,2,Win,3
+17/05/15,Ath Madrid,Barcelona,0,1,A,2014_2015,False,1,0,1,Win,3
+23/05/15,Barcelona,La Coruna,2,2,D,2014_2015,True,2,2,0,Draw,1
+23/08/15,Ath Bilbao,Barcelona,0,1,A,2015_2016,False,1,0,1,Win,3
+29/08/15,Barcelona,Malaga,1,0,H,2015_2016,True,1,0,1,Win,3
+12/09/15,Ath Madrid,Barcelona,1,2,A,2015_2016,False,2,1,1,Win,3
+20/09/15,Barcelona,Levante,4,1,H,2015_2016,True,4,1,3,Win,3
+23/09/15,Celta,Barcelona,4,1,H,2015_2016,False,1,4,-3,Loss,0
+26/09/15,Barcelona,Las Palmas,2,1,H,2015_2016,True,2,1,1,Win,3
+03/10/15,Sevilla,Barcelona,2,1,H,2015_2016,False,1,2,-1,Loss,0
+17/10/15,Barcelona,Vallecano,5,2,H,2015_2016,True,5,2,3,Win,3
+25/10/15,Barcelona,Eibar,3,1,H,2015_2016,True,3,1,2,Win,3
+31/10/15,Getafe,Barcelona,0,2,A,2015_2016,False,2,0,2,Win,3
+08/11/15,Barcelona,Villarreal,3,0,H,2015_2016,True,3,0,3,Win,3
+21/11/15,Real Madrid,Barcelona,0,4,A,2015_2016,False,4,0,4,Win,3
+28/11/15,Barcelona,Sociedad,4,0,H,2015_2016,True,4,0,4,Win,3
+05/12/15,Valencia,Barcelona,1,1,D,2015_2016,False,1,1,0,Draw,1
+12/12/15,Barcelona,La Coruna,2,2,D,2015_2016,True,2,2,0,Draw,1
+30/12/15,Barcelona,Betis,4,0,H,2015_2016,True,4,0,4,Win,3
+02/01/16,Espanol,Barcelona,0,0,D,2015_2016,False,0,0,0,Draw,1
+09/01/16,Barcelona,Granada,4,0,H,2015_2016,True,4,0,4,Win,3
+17/01/16,Barcelona,Ath Bilbao,6,0,H,2015_2016,True,6,0,6,Win,3
+23/01/16,Malaga,Barcelona,1,2,A,2015_2016,False,2,1,1,Win,3
+30/01/16,Barcelona,Ath Madrid,2,1,H,2015_2016,True,2,1,1,Win,3
+07/02/16,Levante,Barcelona,0,2,A,2015_2016,False,2,0,2,Win,3
+14/02/16,Barcelona,Celta,6,1,H,2015_2016,True,6,1,5,Win,3
+17/02/16,Sp Gijon,Barcelona,1,3,A,2015_2016,False,3,1,2,Win,3
+20/02/16,Las Palmas,Barcelona,1,2,A,2015_2016,False,2,1,1,Win,3
+28/02/16,Barcelona,Sevilla,2,1,H,2015_2016,True,2,1,1,Win,3
+03/03/16,Vallecano,Barcelona,1,5,A,2015_2016,False,5,1,4,Win,3
+06/03/16,Eibar,Barcelona,0,4,A,2015_2016,False,4,0,4,Win,3
+12/03/16,Barcelona,Getafe,6,0,H,2015_2016,True,6,0,6,Win,3
+20/03/16,Villarreal,Barcelona,2,2,D,2015_2016,False,2,2,0,Draw,1
+02/04/16,Barcelona,Real Madrid,1,2,A,2015_2016,True,1,2,-1,Loss,0
+09/04/16,Sociedad,Barcelona,1,0,H,2015_2016,False,0,1,-1,Loss,0
+17/04/16,Barcelona,Valencia,1,2,A,2015_2016,True,1,2,-1,Loss,0
+20/04/16,La Coruna,Barcelona,0,8,A,2015_2016,False,8,0,8,Win,3
+23/04/16,Barcelona,Sp Gijon,6,0,H,2015_2016,True,6,0,6,Win,3
+30/04/16,Betis,Barcelona,0,2,A,2015_2016,False,2,0,2,Win,3
+08/05/16,Barcelona,Espanol,5,0,H,2015_2016,True,5,0,5,Win,3
+14/05/16,Granada,Barcelona,0,3,A,2015_2016,False,3,0,3,Win,3
+20/08/16,Barcelona,Betis,6,2,H,2016_2017,True,6,2,4,Win,3
+28/08/16,Ath Bilbao,Barcelona,0,1,A,2016_2017,False,1,0,1,Win,3
+10/09/16,Barcelona,Alaves,1,2,A,2016_2017,True,1,2,-1,Loss,0
+17/09/16,Leganes,Barcelona,1,5,A,2016_2017,False,5,1,4,Win,3
+21/09/16,Barcelona,Ath Madrid,1,1,D,2016_2017,True,1,1,0,Draw,1
+24/09/16,Sp Gijon,Barcelona,0,5,A,2016_2017,False,5,0,5,Win,3
+02/10/16,Celta,Barcelona,4,3,H,2016_2017,False,3,4,-1,Loss,0
+15/10/16,Barcelona,La Coruna,4,0,H,2016_2017,True,4,0,4,Win,3
+22/10/16,Valencia,Barcelona,2,3,A,2016_2017,False,3,2,1,Win,3
+29/10/16,Barcelona,Granada,1,0,H,2016_2017,True,1,0,1,Win,3
+06/11/16,Sevilla,Barcelona,1,2,A,2016_2017,False,2,1,1,Win,3
+19/11/16,Barcelona,Malaga,0,0,D,2016_2017,True,0,0,0,Draw,1
+27/11/16,Sociedad,Barcelona,1,1,D,2016_2017,False,1,1,0,Draw,1
+03/12/16,Barcelona,Real Madrid,1,1,D,2016_2017,True,1,1,0,Draw,1
+10/12/16,Osasuna,Barcelona,0,3,A,2016_2017,False,3,0,3,Win,3
+18/12/16,Barcelona,Espanol,4,1,H,2016_2017,True,4,1,3,Win,3
+08/01/17,Villarreal,Barcelona,1,1,D,2016_2017,False,1,1,0,Draw,1
+14/01/17,Barcelona,Las Palmas,5,0,H,2016_2017,True,5,0,5,Win,3
+22/01/17,Eibar,Barcelona,0,4,A,2016_2017,False,4,0,4,Win,3
+29/01/17,Betis,Barcelona,1,1,D,2016_2017,False,1,1,0,Draw,1
+04/02/17,Barcelona,Ath Bilbao,3,0,H,2016_2017,True,3,0,3,Win,3
+11/02/17,Alaves,Barcelona,0,6,A,2016_2017,False,6,0,6,Win,3
+19/02/17,Barcelona,Leganes,2,1,H,2016_2017,True,2,1,1,Win,3
+26/02/17,Ath Madrid,Barcelona,1,2,A,2016_2017,False,2,1,1,Win,3
+01/03/17,Barcelona,Sp Gijon,6,1,H,2016_2017,True,6,1,5,Win,3
+04/03/17,Barcelona,Celta,5,0,H,2016_2017,True,5,0,5,Win,3
+12/03/17,La Coruna,Barcelona,2,1,H,2016_2017,False,1,2,-1,Loss,0
+19/03/17,Barcelona,Valencia,4,2,H,2016_2017,True,4,2,2,Win,3
+02/04/17,Granada,Barcelona,1,4,A,2016_2017,False,4,1,3,Win,3
+05/04/17,Barcelona,Sevilla,3,0,H,2016_2017,True,3,0,3,Win,3
+08/04/17,Malaga,Barcelona,2,0,H,2016_2017,False,0,2,-2,Loss,0
+15/04/17,Barcelona,Sociedad,3,2,H,2016_2017,True,3,2,1,Win,3
+23/04/17,Real Madrid,Barcelona,2,3,A,2016_2017,False,3,2,1,Win,3
+26/04/17,Barcelona,Osasuna,7,1,H,2016_2017,True,7,1,6,Win,3
+29/04/17,Espanol,Barcelona,0,3,A,2016_2017,False,3,0,3,Win,3
+06/05/17,Barcelona,Villarreal,4,1,H,2016_2017,True,4,1,3,Win,3
+14/05/17,Las Palmas,Barcelona,1,4,A,2016_2017,False,4,1,3,Win,3
+21/05/17,Barcelona,Eibar,4,2,H,2016_2017,True,4,2,2,Win,3
+20/08/17,Barcelona,Betis,2,0,H,2017_2018,True,2,0,2,Win,3
+26/08/17,Alaves,Barcelona,0,2,A,2017_2018,False,2,0,2,Win,3
+09/09/17,Barcelona,Espanol,5,0,H,2017_2018,True,5,0,5,Win,3
+16/09/17,Getafe,Barcelona,1,2,A,2017_2018,False,2,1,1,Win,3
+19/09/17,Barcelona,Eibar,6,1,H,2017_2018,True,6,1,5,Win,3
+23/09/17,Girona,Barcelona,0,3,A,2017_2018,False,3,0,3,Win,3
+01/10/17,Barcelona,Las Palmas,3,0,H,2017_2018,True,3,0,3,Win,3
+14/10/17,Ath Madrid,Barcelona,1,1,D,2017_2018,False,1,1,0,Draw,1
+21/10/17,Barcelona,Malaga,2,0,H,2017_2018,True,2,0,2,Win,3
+28/10/17,Ath Bilbao,Barcelona,0,2,A,2017_2018,False,2,0,2,Win,3
+04/11/17,Barcelona,Sevilla,2,1,H,2017_2018,True,2,1,1,Win,3
+18/11/17,Leganes,Barcelona,0,3,A,2017_2018,False,3,0,3,Win,3
+26/11/17,Valencia,Barcelona,1,1,D,2017_2018,False,1,1,0,Draw,1
+02/12/17,Barcelona,Celta,2,2,D,2017_2018,True,2,2,0,Draw,1
+10/12/17,Villarreal,Barcelona,0,2,A,2017_2018,False,2,0,2,Win,3
+17/12/17,Barcelona,La Coruna,4,0,H,2017_2018,True,4,0,4,Win,3
+23/12/17,Real Madrid,Barcelona,0,3,A,2017_2018,False,3,0,3,Win,3
+07/01/18,Barcelona,Levante,3,0,H,2017_2018,True,3,0,3,Win,3
+14/01/18,Sociedad,Barcelona,2,4,A,2017_2018,False,4,2,2,Win,3
+21/01/18,Betis,Barcelona,0,5,A,2017_2018,False,5,0,5,Win,3
+28/01/18,Barcelona,Alaves,2,1,H,2017_2018,True,2,1,1,Win,3
+04/02/18,Espanol,Barcelona,1,1,D,2017_2018,False,1,1,0,Draw,1
+11/02/18,Barcelona,Getafe,0,0,D,2017_2018,True,0,0,0,Draw,1
+17/02/18,Eibar,Barcelona,0,2,A,2017_2018,False,2,0,2,Win,3
+24/02/18,Barcelona,Girona,6,1,H,2017_2018,True,6,1,5,Win,3
+01/03/18,Las Palmas,Barcelona,1,1,D,2017_2018,False,1,1,0,Draw,1
+04/03/18,Barcelona,Ath Madrid,1,0,H,2017_2018,True,1,0,1,Win,3
+10/03/18,Malaga,Barcelona,0,2,A,2017_2018,False,2,0,2,Win,3
+18/03/18,Barcelona,Ath Bilbao,2,0,H,2017_2018,True,2,0,2,Win,3
+31/03/18,Sevilla,Barcelona,2,2,D,2017_2018,False,2,2,0,Draw,1
+07/04/18,Barcelona,Leganes,3,1,H,2017_2018,True,3,1,2,Win,3
+14/04/18,Barcelona,Valencia,2,1,H,2017_2018,True,2,1,1,Win,3
+17/04/18,Celta,Barcelona,2,2,D,2017_2018,False,2,2,0,Draw,1
+29/04/18,La Coruna,Barcelona,2,4,A,2017_2018,False,4,2,2,Win,3
+06/05/18,Barcelona,Real Madrid,2,2,D,2017_2018,True,2,2,0,Draw,1
+09/05/18,Barcelona,Villarreal,5,1,H,2017_2018,True,5,1,4,Win,3
+13/05/18,Levante,Barcelona,5,4,H,2017_2018,False,4,5,-1,Loss,0
+20/05/18,Barcelona,Sociedad,1,0,H,2017_2018,True,1,0,1,Win,3
+18/08/2018,Barcelona,Alaves,3,0,H,2018_2019,True,3,0,3,Win,3
+25/08/2018,Valladolid,Barcelona,0,1,A,2018_2019,False,1,0,1,Win,3
+02/09/2018,Barcelona,Huesca,8,2,H,2018_2019,True,8,2,6,Win,3
+15/09/2018,Sociedad,Barcelona,1,2,A,2018_2019,False,2,1,1,Win,3
+23/09/2018,Barcelona,Girona,2,2,D,2018_2019,True,2,2,0,Draw,1
+26/09/2018,Leganes,Barcelona,2,1,H,2018_2019,False,1,2,-1,Loss,0
+29/09/2018,Barcelona,Ath Bilbao,1,1,D,2018_2019,True,1,1,0,Draw,1
+07/10/2018,Valencia,Barcelona,1,1,D,2018_2019,False,1,1,0,Draw,1
+20/10/2018,Barcelona,Sevilla,4,2,H,2018_2019,True,4,2,2,Win,3
+28/10/2018,Barcelona,Real Madrid,5,1,H,2018_2019,True,5,1,4,Win,3
+03/11/2018,Vallecano,Barcelona,2,3,A,2018_2019,False,3,2,1,Win,3
+11/11/2018,Barcelona,Betis,3,4,A,2018_2019,True,3,4,-1,Loss,0
+24/11/2018,Ath Madrid,Barcelona,1,1,D,2018_2019,False,1,1,0,Draw,1
+02/12/2018,Barcelona,Villarreal,2,0,H,2018_2019,True,2,0,2,Win,3
+08/12/2018,Espanol,Barcelona,0,4,A,2018_2019,False,4,0,4,Win,3
+16/12/2018,Levante,Barcelona,0,5,A,2018_2019,False,5,0,5,Win,3
+22/12/2018,Barcelona,Celta,2,0,H,2018_2019,True,2,0,2,Win,3
+06/01/2019,Getafe,Barcelona,1,2,A,2018_2019,False,2,1,1,Win,3
+13/01/2019,Barcelona,Eibar,3,0,H,2018_2019,True,3,0,3,Win,3
+20/01/2019,Barcelona,Leganes,3,1,H,2018_2019,True,3,1,2,Win,3
+27/01/2019,Girona,Barcelona,0,2,A,2018_2019,False,2,0,2,Win,3
+02/02/2019,Barcelona,Valencia,2,2,D,2018_2019,True,2,2,0,Draw,1
+10/02/2019,Ath Bilbao,Barcelona,0,0,D,2018_2019,False,0,0,0,Draw,1
+16/02/2019,Barcelona,Valladolid,1,0,H,2018_2019,True,1,0,1,Win,3
+23/02/2019,Sevilla,Barcelona,2,4,A,2018_2019,False,4,2,2,Win,3
+02/03/2019,Real Madrid,Barcelona,0,1,A,2018_2019,False,1,0,1,Win,3
+09/03/2019,Barcelona,Vallecano,3,1,H,2018_2019,True,3,1,2,Win,3
+17/03/2019,Betis,Barcelona,1,4,A,2018_2019,False,4,1,3,Win,3
+30/03/2019,Barcelona,Espanol,2,0,H,2018_2019,True,2,0,2,Win,3
+02/04/2019,Villarreal,Barcelona,4,4,D,2018_2019,False,4,4,0,Draw,1
+06/04/2019,Barcelona,Ath Madrid,2,0,H,2018_2019,True,2,0,2,Win,3
+13/04/2019,Huesca,Barcelona,0,0,D,2018_2019,False,0,0,0,Draw,1
+20/04/2019,Barcelona,Sociedad,2,1,H,2018_2019,True,2,1,1,Win,3
+23/04/2019,Alaves,Barcelona,0,2,A,2018_2019,False,2,0,2,Win,3
+27/04/2019,Barcelona,Levante,1,0,H,2018_2019,True,1,0,1,Win,3
+04/05/2019,Celta,Barcelona,2,0,H,2018_2019,False,0,2,-2,Loss,0
+12/05/2019,Barcelona,Getafe,2,0,H,2018_2019,True,2,0,2,Win,3
+19/05/2019,Eibar,Barcelona,2,2,D,2018_2019,False,2,2,0,Draw,1
+16/08/2019,Ath Bilbao,Barcelona,1,0,H,2019_2020,False,0,1,-1,Loss,0
+25/08/2019,Barcelona,Betis,5,2,H,2019_2020,True,5,2,3,Win,3
+31/08/2019,Osasuna,Barcelona,2,2,D,2019_2020,False,2,2,0,Draw,1
+14/09/2019,Barcelona,Valencia,5,2,H,2019_2020,True,5,2,3,Win,3
+21/09/2019,Granada,Barcelona,2,0,H,2019_2020,False,0,2,-2,Loss,0
+24/09/2019,Barcelona,Villarreal,2,1,H,2019_2020,True,2,1,1,Win,3
+28/09/2019,Getafe,Barcelona,0,2,A,2019_2020,False,2,0,2,Win,3
+06/10/2019,Barcelona,Sevilla,4,0,H,2019_2020,True,4,0,4,Win,3
+19/10/2019,Eibar,Barcelona,0,3,A,2019_2020,False,3,0,3,Win,3
+29/10/2019,Barcelona,Valladolid,5,1,H,2019_2020,True,5,1,4,Win,3
+02/11/2019,Levante,Barcelona,3,1,H,2019_2020,False,1,3,-2,Loss,0
+09/11/2019,Barcelona,Celta,4,1,H,2019_2020,True,4,1,3,Win,3
+23/11/2019,Leganes,Barcelona,1,2,A,2019_2020,False,2,1,1,Win,3
+01/12/2019,Ath Madrid,Barcelona,0,1,A,2019_2020,False,1,0,1,Win,3
+07/12/2019,Barcelona,Mallorca,5,2,H,2019_2020,True,5,2,3,Win,3
+14/12/2019,Sociedad,Barcelona,2,2,D,2019_2020,False,2,2,0,Draw,1
+18/12/2019,Barcelona,Real Madrid,0,0,D,2019_2020,True,0,0,0,Draw,1
+21/12/2019,Barcelona,Alaves,4,1,H,2019_2020,True,4,1,3,Win,3
+04/01/2020,Espanol,Barcelona,2,2,D,2019_2020,False,2,2,0,Draw,1
+19/01/2020,Barcelona,Granada,1,0,H,2019_2020,True,1,0,1,Win,3
+25/01/2020,Valencia,Barcelona,2,0,H,2019_2020,False,0,2,-2,Loss,0
+02/02/2020,Barcelona,Levante,2,1,H,2019_2020,True,2,1,1,Win,3
+09/02/2020,Betis,Barcelona,2,3,A,2019_2020,False,3,2,1,Win,3
+15/02/2020,Barcelona,Getafe,2,1,H,2019_2020,True,2,1,1,Win,3
+22/02/2020,Barcelona,Eibar,5,0,H,2019_2020,True,5,0,5,Win,3
+01/03/2020,Real Madrid,Barcelona,2,0,H,2019_2020,False,0,2,-2,Loss,0
+07/03/2020,Barcelona,Sociedad,1,0,H,2019_2020,True,1,0,1,Win,3
+13/06/2020,Mallorca,Barcelona,0,4,A,2019_2020,False,4,0,4,Win,3
+16/06/2020,Barcelona,Leganes,2,0,H,2019_2020,True,2,0,2,Win,3
+19/06/2020,Sevilla,Barcelona,0,0,D,2019_2020,False,0,0,0,Draw,1
+23/06/2020,Barcelona,Ath Bilbao,1,0,H,2019_2020,True,1,0,1,Win,3
+27/06/2020,Celta,Barcelona,2,2,D,2019_2020,False,2,2,0,Draw,1
+30/06/2020,Barcelona,Ath Madrid,2,2,D,2019_2020,True,2,2,0,Draw,1
+05/07/2020,Villarreal,Barcelona,1,4,A,2019_2020,False,4,1,3,Win,3
+08/07/2020,Barcelona,Espanol,1,0,H,2019_2020,True,1,0,1,Win,3
+11/07/2020,Valladolid,Barcelona,0,1,A,2019_2020,False,1,0,1,Win,3
+16/07/2020,Barcelona,Osasuna,1,2,A,2019_2020,True,1,2,-1,Loss,0
+19/07/2020,Alaves,Barcelona,0,5,A,2019_2020,False,5,0,5,Win,3
+27/09/2020,Barcelona,Villarreal,4,0,H,2020_2021,True,4,0,4,Win,3
+01/10/2020,Celta,Barcelona,0,3,A,2020_2021,False,3,0,3,Win,3
+04/10/2020,Barcelona,Sevilla,1,1,D,2020_2021,True,1,1,0,Draw,1
+17/10/2020,Getafe,Barcelona,1,0,H,2020_2021,False,0,1,-1,Loss,0
+24/10/2020,Barcelona,Real Madrid,1,3,A,2020_2021,True,1,3,-2,Loss,0
+31/10/2020,Alaves,Barcelona,1,1,D,2020_2021,False,1,1,0,Draw,1
+07/11/2020,Barcelona,Betis,5,2,H,2020_2021,True,5,2,3,Win,3
+21/11/2020,Ath Madrid,Barcelona,1,0,H,2020_2021,False,0,1,-1,Loss,0
+29/11/2020,Barcelona,Osasuna,4,0,H,2020_2021,True,4,0,4,Win,3
+05/12/2020,Cadiz,Barcelona,2,1,H,2020_2021,False,1,2,-1,Loss,0
+13/12/2020,Barcelona,Levante,1,0,H,2020_2021,True,1,0,1,Win,3
+16/12/2020,Barcelona,Sociedad,2,1,H,2020_2021,True,2,1,1,Win,3
+19/12/2020,Barcelona,Valencia,2,2,D,2020_2021,True,2,2,0,Draw,1
+22/12/2020,Valladolid,Barcelona,0,3,A,2020_2021,False,3,0,3,Win,3
+29/12/2020,Barcelona,Eibar,1,1,D,2020_2021,True,1,1,0,Draw,1
+03/01/2021,Huesca,Barcelona,0,1,A,2020_2021,False,1,0,1,Win,3
+06/01/2021,Ath Bilbao,Barcelona,2,3,A,2020_2021,False,3,2,1,Win,3
+09/01/2021,Granada,Barcelona,0,4,A,2020_2021,False,4,0,4,Win,3
+24/01/2021,Elche,Barcelona,0,2,A,2020_2021,False,2,0,2,Win,3
+31/01/2021,Barcelona,Ath Bilbao,2,1,H,2020_2021,True,2,1,1,Win,3
+07/02/2021,Betis,Barcelona,2,3,A,2020_2021,False,3,2,1,Win,3
+13/02/2021,Barcelona,Alaves,5,1,H,2020_2021,True,5,1,4,Win,3
+21/02/2021,Barcelona,Cadiz,1,1,D,2020_2021,True,1,1,0,Draw,1
+24/02/2021,Barcelona,Elche,3,0,H,2020_2021,True,3,0,3,Win,3
+27/02/2021,Sevilla,Barcelona,0,2,A,2020_2021,False,2,0,2,Win,3
+06/03/2021,Osasuna,Barcelona,0,2,A,2020_2021,False,2,0,2,Win,3
+15/03/2021,Barcelona,Huesca,4,1,H,2020_2021,True,4,1,3,Win,3
+21/03/2021,Sociedad,Barcelona,1,6,A,2020_2021,False,6,1,5,Win,3
+05/04/2021,Barcelona,Valladolid,1,0,H,2020_2021,True,1,0,1,Win,3
+10/04/2021,Real Madrid,Barcelona,2,1,H,2020_2021,False,1,2,-1,Loss,0
+22/04/2021,Barcelona,Getafe,5,2,H,2020_2021,True,5,2,3,Win,3
+25/04/2021,Villarreal,Barcelona,1,2,A,2020_2021,False,2,1,1,Win,3
+29/04/2021,Barcelona,Granada,1,2,A,2020_2021,True,1,2,-1,Loss,0
+02/05/2021,Valencia,Barcelona,2,3,A,2020_2021,False,3,2,1,Win,3
+08/05/2021,Barcelona,Ath Madrid,0,0,D,2020_2021,True,0,0,0,Draw,1
+11/05/2021,Levante,Barcelona,3,3,D,2020_2021,False,3,3,0,Draw,1
+16/05/2021,Barcelona,Celta,1,2,A,2020_2021,True,1,2,-1,Loss,0
+22/05/2021,Eibar,Barcelona,0,1,A,2020_2021,False,1,0,1,Win,3
+15/08/2021,Barcelona,Sociedad,4,2,H,2021_2022,True,4,2,2,Win,3
+21/08/2021,Ath Bilbao,Barcelona,1,1,D,2021_2022,False,1,1,0,Draw,1
+29/08/2021,Barcelona,Getafe,2,1,H,2021_2022,True,2,1,1,Win,3
+20/09/2021,Barcelona,Granada,1,1,D,2021_2022,True,1,1,0,Draw,1
+23/09/2021,Cadiz,Barcelona,0,0,D,2021_2022,False,0,0,0,Draw,1
+26/09/2021,Barcelona,Levante,3,0,H,2021_2022,True,3,0,3,Win,3
+02/10/2021,Ath Madrid,Barcelona,2,0,H,2021_2022,False,0,2,-2,Loss,0
+17/10/2021,Barcelona,Valencia,3,1,H,2021_2022,True,3,1,2,Win,3
+24/10/2021,Barcelona,Real Madrid,1,2,A,2021_2022,True,1,2,-1,Loss,0
+27/10/2021,Vallecano,Barcelona,1,0,H,2021_2022,False,0,1,-1,Loss,0
+30/10/2021,Barcelona,Alaves,1,1,D,2021_2022,True,1,1,0,Draw,1
+06/11/2021,Celta,Barcelona,3,3,D,2021_2022,False,3,3,0,Draw,1
+20/11/2021,Barcelona,Espanol,1,0,H,2021_2022,True,1,0,1,Win,3
+27/11/2021,Villarreal,Barcelona,1,3,A,2021_2022,False,3,1,2,Win,3
+04/12/2021,Barcelona,Betis,0,1,A,2021_2022,True,0,1,-1,Loss,0
+12/12/2021,Osasuna,Barcelona,2,2,D,2021_2022,False,2,2,0,Draw,1
+18/12/2021,Barcelona,Elche,3,2,H,2021_2022,True,3,2,1,Win,3
+21/12/2021,Sevilla,Barcelona,1,1,D,2021_2022,False,1,1,0,Draw,1
+02/01/2022,Mallorca,Barcelona,0,1,A,2021_2022,False,1,0,1,Win,3
+08/01/2022,Granada,Barcelona,1,1,D,2021_2022,False,1,1,0,Draw,1
+23/01/2022,Alaves,Barcelona,0,1,A,2021_2022,False,1,0,1,Win,3
+06/02/2022,Barcelona,Ath Madrid,4,2,H,2021_2022,True,4,2,2,Win,3
+13/02/2022,Espanol,Barcelona,2,2,D,2021_2022,False,2,2,0,Draw,1
+20/02/2022,Valencia,Barcelona,1,4,A,2021_2022,False,4,1,3,Win,3
+27/02/2022,Barcelona,Ath Bilbao,4,0,H,2021_2022,True,4,0,4,Win,3
+06/03/2022,Elche,Barcelona,1,2,A,2021_2022,False,2,1,1,Win,3
+13/03/2022,Barcelona,Osasuna,4,0,H,2021_2022,True,4,0,4,Win,3
+20/03/2022,Real Madrid,Barcelona,0,4,A,2021_2022,False,4,0,4,Win,3
+03/04/2022,Barcelona,Sevilla,1,0,H,2021_2022,True,1,0,1,Win,3
+10/04/2022,Levante,Barcelona,2,3,A,2021_2022,False,3,2,1,Win,3
+18/04/2022,Barcelona,Cadiz,0,1,A,2021_2022,True,0,1,-1,Loss,0
+21/04/2022,Sociedad,Barcelona,0,1,A,2021_2022,False,1,0,1,Win,3
+24/04/2022,Barcelona,Vallecano,0,1,A,2021_2022,True,0,1,-1,Loss,0
+01/05/2022,Barcelona,Mallorca,2,1,H,2021_2022,True,2,1,1,Win,3
+07/05/2022,Betis,Barcelona,1,2,A,2021_2022,False,2,1,1,Win,3
+10/05/2022,Barcelona,Celta,3,1,H,2021_2022,True,3,1,2,Win,3
+15/05/2022,Getafe,Barcelona,0,0,D,2021_2022,False,0,0,0,Draw,1
+22/05/2022,Barcelona,Villarreal,0,2,A,2021_2022,True,0,2,-2,Loss,0
+13/08/2022,Barcelona,Vallecano,0,0,D,2022_2023,True,0,0,0,Draw,1
+21/08/2022,Sociedad,Barcelona,1,4,A,2022_2023,False,4,1,3,Win,3
+28/08/2022,Barcelona,Valladolid,4,0,H,2022_2023,True,4,0,4,Win,3
+03/09/2022,Sevilla,Barcelona,0,3,A,2022_2023,False,3,0,3,Win,3
+10/09/2022,Cadiz,Barcelona,0,4,A,2022_2023,False,4,0,4,Win,3
+17/09/2022,Barcelona,Elche,3,0,H,2022_2023,True,3,0,3,Win,3
+01/10/2022,Mallorca,Barcelona,0,1,A,2022_2023,False,1,0,1,Win,3
+09/10/2022,Barcelona,Celta,1,0,H,2022_2023,True,1,0,1,Win,3
+16/10/2022,Real Madrid,Barcelona,3,1,H,2022_2023,False,1,3,-2,Loss,0
+20/10/2022,Barcelona,Villarreal,3,0,H,2022_2023,True,3,0,3,Win,3
+23/10/2022,Barcelona,Ath Bilbao,4,0,H,2022_2023,True,4,0,4,Win,3
+29/10/2022,Valencia,Barcelona,0,1,A,2022_2023,False,1,0,1,Win,3
+05/11/2022,Barcelona,Almeria,2,0,H,2022_2023,True,2,0,2,Win,3
+08/11/2022,Osasuna,Barcelona,1,2,A,2022_2023,False,2,1,1,Win,3
+31/12/2022,Barcelona,Espanol,1,1,D,2022_2023,True,1,1,0,Draw,1
+08/01/2023,Ath Madrid,Barcelona,0,1,A,2022_2023,False,1,0,1,Win,3
+22/01/2023,Barcelona,Getafe,1,0,H,2022_2023,True,1,0,1,Win,3
+28/01/2023,Girona,Barcelona,0,1,A,2022_2023,False,1,0,1,Win,3
+01/02/2023,Betis,Barcelona,1,2,A,2022_2023,False,2,1,1,Win,3
+05/02/2023,Barcelona,Sevilla,3,0,H,2022_2023,True,3,0,3,Win,3
+12/02/2023,Villarreal,Barcelona,0,1,A,2022_2023,False,1,0,1,Win,3
+19/02/2023,Barcelona,Cadiz,2,0,H,2022_2023,True,2,0,2,Win,3
+26/02/2023,Almeria,Barcelona,1,0,H,2022_2023,False,0,1,-1,Loss,0
+05/03/2023,Barcelona,Valencia,1,0,H,2022_2023,True,1,0,1,Win,3
+12/03/2023,Ath Bilbao,Barcelona,0,1,A,2022_2023,False,1,0,1,Win,3
+19/03/2023,Barcelona,Real Madrid,2,1,H,2022_2023,True,2,1,1,Win,3
+01/04/2023,Elche,Barcelona,0,4,A,2022_2023,False,4,0,4,Win,3
+10/04/2023,Barcelona,Girona,0,0,D,2022_2023,True,0,0,0,Draw,1
+16/04/2023,Getafe,Barcelona,0,0,D,2022_2023,False,0,0,0,Draw,1
+23/04/2023,Barcelona,Ath Madrid,1,0,H,2022_2023,True,1,0,1,Win,3
+26/04/2023,Vallecano,Barcelona,2,1,H,2022_2023,False,1,2,-1,Loss,0
+29/04/2023,Barcelona,Betis,4,0,H,2022_2023,True,4,0,4,Win,3
+02/05/2023,Barcelona,Osasuna,1,0,H,2022_2023,True,1,0,1,Win,3
+14/05/2023,Espanol,Barcelona,2,4,A,2022_2023,False,4,2,2,Win,3
+20/05/2023,Barcelona,Sociedad,1,2,A,2022_2023,True,1,2,-1,Loss,0
+23/05/2023,Valladolid,Barcelona,3,1,H,2022_2023,False,1,3,-2,Loss,0
+28/05/2023,Barcelona,Mallorca,3,0,H,2022_2023,True,3,0,3,Win,3
+04/06/2023,Celta,Barcelona,2,1,H,2022_2023,False,1,2,-1,Loss,0
+13/08/2023,Getafe,Barcelona,0,0,D,2023_2024,False,0,0,0,Draw,1
+20/08/2023,Barcelona,Cadiz,2,0,H,2023_2024,True,2,0,2,Win,3
+27/08/2023,Villarreal,Barcelona,3,4,A,2023_2024,False,4,3,1,Win,3
+03/09/2023,Osasuna,Barcelona,1,2,A,2023_2024,False,2,1,1,Win,3
+16/09/2023,Barcelona,Betis,5,0,H,2023_2024,True,5,0,5,Win,3
+23/09/2023,Barcelona,Celta,3,2,H,2023_2024,True,3,2,1,Win,3
+26/09/2023,Mallorca,Barcelona,2,2,D,2023_2024,False,2,2,0,Draw,1
+29/09/2023,Barcelona,Sevilla,1,0,H,2023_2024,True,1,0,1,Win,3
+08/10/2023,Granada,Barcelona,2,2,D,2023_2024,False,2,2,0,Draw,1
+22/10/2023,Barcelona,Ath Bilbao,1,0,H,2023_2024,True,1,0,1,Win,3
+28/10/2023,Barcelona,Real Madrid,1,2,A,2023_2024,True,1,2,-1,Loss,0
+04/11/2023,Sociedad,Barcelona,0,1,A,2023_2024,False,1,0,1,Win,3
+12/11/2023,Barcelona,Alaves,2,1,H,2023_2024,True,2,1,1,Win,3
+25/11/2023,Vallecano,Barcelona,1,1,D,2023_2024,False,1,1,0,Draw,1
+03/12/2023,Barcelona,Ath Madrid,1,0,H,2023_2024,True,1,0,1,Win,3
+10/12/2023,Barcelona,Girona,2,4,A,2023_2024,True,2,4,-2,Loss,0
+16/12/2023,Valencia,Barcelona,1,1,D,2023_2024,False,1,1,0,Draw,1
+20/12/2023,Barcelona,Almeria,3,2,H,2023_2024,True,3,2,1,Win,3
+04/01/2024,Las Palmas,Barcelona,1,2,A,2023_2024,False,2,1,1,Win,3
+21/01/2024,Betis,Barcelona,2,4,A,2023_2024,False,4,2,2,Win,3
+27/01/2024,Barcelona,Villarreal,3,5,A,2023_2024,True,3,5,-2,Loss,0
+31/01/2024,Barcelona,Osasuna,1,0,H,2023_2024,True,1,0,1,Win,3
+03/02/2024,Alaves,Barcelona,1,3,A,2023_2024,False,3,1,2,Win,3
+11/02/2024,Barcelona,Granada,3,3,D,2023_2024,True,3,3,0,Draw,1
+17/02/2024,Celta,Barcelona,1,2,A,2023_2024,False,2,1,1,Win,3
+24/02/2024,Barcelona,Getafe,4,0,H,2023_2024,True,4,0,4,Win,3
+03/03/2024,Ath Bilbao,Barcelona,0,0,D,2023_2024,False,0,0,0,Draw,1
+08/03/2024,Barcelona,Mallorca,1,0,H,2023_2024,True,1,0,1,Win,3
+17/03/2024,Ath Madrid,Barcelona,0,3,A,2023_2024,False,3,0,3,Win,3
+30/03/2024,Barcelona,Las Palmas,1,0,H,2023_2024,True,1,0,1,Win,3
+13/04/2024,Cadiz,Barcelona,0,1,A,2023_2024,False,1,0,1,Win,3
+21/04/2024,Real Madrid,Barcelona,3,2,H,2023_2024,False,2,3,-1,Loss,0
+29/04/2024,Barcelona,Valencia,4,2,H,2023_2024,True,4,2,2,Win,3
+04/05/2024,Girona,Barcelona,4,2,H,2023_2024,False,2,4,-2,Loss,0
+13/05/2024,Barcelona,Sociedad,2,0,H,2023_2024,True,2,0,2,Win,3
+16/05/2024,Almeria,Barcelona,0,2,A,2023_2024,False,2,0,2,Win,3
+19/05/2024,Barcelona,Vallecano,3,0,H,2023_2024,True,3,0,3,Win,3
+26/05/2024,Sevilla,Barcelona,1,2,A,2023_2024,False,2,1,1,Win,3
+17/08/2024,Valencia,Barcelona,1,2,A,2024_2025,False,2,1,1,Win,3
+24/08/2024,Barcelona,Ath Bilbao,2,1,H,2024_2025,True,2,1,1,Win,3
+27/08/2024,Vallecano,Barcelona,1,2,A,2024_2025,False,2,1,1,Win,3
+31/08/2024,Barcelona,Valladolid,7,0,H,2024_2025,True,7,0,7,Win,3
+15/09/2024,Girona,Barcelona,1,4,A,2024_2025,False,4,1,3,Win,3
+22/09/2024,Villarreal,Barcelona,1,5,A,2024_2025,False,5,1,4,Win,3
+25/09/2024,Barcelona,Getafe,1,0,H,2024_2025,True,1,0,1,Win,3
+28/09/2024,Osasuna,Barcelona,4,2,H,2024_2025,False,2,4,-2,Loss,0
+06/10/2024,Alaves,Barcelona,0,3,A,2024_2025,False,3,0,3,Win,3
+20/10/2024,Barcelona,Sevilla,5,1,H,2024_2025,True,5,1,4,Win,3
+26/10/2024,Real Madrid,Barcelona,0,4,A,2024_2025,False,4,0,4,Win,3
+03/11/2024,Barcelona,Espanol,3,1,H,2024_2025,True,3,1,2,Win,3
+10/11/2024,Sociedad,Barcelona,1,0,H,2024_2025,False,0,1,-1,Loss,0
+23/11/2024,Celta,Barcelona,2,2,D,2024_2025,False,2,2,0,Draw,1
+30/11/2024,Barcelona,Las Palmas,1,2,A,2024_2025,True,1,2,-1,Loss,0
+03/12/2024,Mallorca,Barcelona,1,5,A,2024_2025,False,5,1,4,Win,3
+07/12/2024,Betis,Barcelona,2,2,D,2024_2025,False,2,2,0,Draw,1
+15/12/2024,Barcelona,Leganes,0,1,A,2024_2025,True,0,1,-1,Loss,0
+21/12/2024,Barcelona,Ath Madrid,1,2,A,2024_2025,True,1,2,-1,Loss,0
+18/01/2025,Getafe,Barcelona,1,1,D,2024_2025,False,1,1,0,Draw,1
+26/01/2025,Barcelona,Valencia,7,1,H,2024_2025,True,7,1,6,Win,3
+02/02/2025,Barcelona,Alaves,1,0,H,2024_2025,True,1,0,1,Win,3
+09/02/2025,Sevilla,Barcelona,1,4,A,2024_2025,False,4,1,3,Win,3
+17/02/2025,Barcelona,Vallecano,1,0,H,2024_2025,True,1,0,1,Win,3
+22/02/2025,Las Palmas,Barcelona,0,2,A,2024_2025,False,2,0,2,Win,3
+02/03/2025,Barcelona,Sociedad,4,0,H,2024_2025,True,4,0,4,Win,3
+16/03/2025,Ath Madrid,Barcelona,2,4,A,2024_2025,False,4,2,2,Win,3
+27/03/2025,Barcelona,Osasuna,3,0,H,2024_2025,True,3,0,3,Win,3
+30/03/2025,Barcelona,Girona,4,1,H,2024_2025,True,4,1,3,Win,3
+05/04/2025,Barcelona,Betis,1,1,D,2024_2025,True,1,1,0,Draw,1
+12/04/2025,Leganes,Barcelona,0,1,A,2024_2025,False,1,0,1,Win,3
+19/04/2025,Barcelona,Celta,4,3,H,2024_2025,True,4,3,1,Win,3
+22/04/2025,Barcelona,Mallorca,1,0,H,2024_2025,True,1,0,1,Win,3
+03/05/2025,Valladolid,Barcelona,1,2,A,2024_2025,False,2,1,1,Win,3
+11/05/2025,Barcelona,Real Madrid,4,3,H,2024_2025,True,4,3,1,Win,3
+15/05/2025,Espanol,Barcelona,0,2,A,2024_2025,False,2,0,2,Win,3
+18/05/2025,Barcelona,Villarreal,2,3,A,2024_2025,True,2,3,-1,Loss,0
+25/05/2025,Ath Bilbao,Barcelona,0,3,A,2024_2025,False,3,0,3,Win,3
