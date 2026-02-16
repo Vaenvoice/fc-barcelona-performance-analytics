@@ -4,9 +4,29 @@
 
 This project is an end-to-end data science analysis of FC Barcelona’s competitive performance from 2008 to 2025.
 
-The objective of this project is to design a modular analytical system that processes match-level data, derives performance metrics, applies rolling statistical analysis, and visualizes long-term trends through an interactive dashboard.
+The objective is to design a modular analytical system that processes match-level data, derives structured performance metrics, applies rolling statistical analysis, and visualizes long-term structural trends through an interactive dashboard.
 
-This project demonstrates applied data analysis, feature engineering, time-series reasoning, and structured software design.
+This project demonstrates applied data analysis, feature engineering, time-series reasoning, and scalable software design.
+
+---
+
+## 🌐 Live Dashboard
+
+Interactive Streamlit Deployment:
+
+🔗 [https://fcbarcelona-analytics.streamlit.app](https://fcbarcelona-analytics.streamlit.app/)  
+
+The dashboard allows users to explore season trends, rolling form indicators, and era-based structural comparisons dynamically.
+
+---
+
+## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](reports/dashboard_overview.png)
+
+### Era Comparison Analysis
+![Era Comparison](reports/era_comparison.png)
 
 ---
 
@@ -23,6 +43,20 @@ This project addresses:
 
 ---
 
+## Key Quantitative Findings
+
+The analysis identifies distinct structural phases in performance:
+
+- 🏆 **Peak Season:** 2012–2013 with 100 league points  
+- 📉 **Lowest Season:** 2021–2022 with 73 points  
+- 🔥 **Highest Dominance Index:** 2014–2015  
+- 📊 **Strongest Era by Average Points:** Tito Era  
+- ⚠️ **Largest Performance Decline:** Post-Messi period  
+
+These findings demonstrate measurable dominance cycles and post-transition volatility.
+
+---
+
 ## Data Pipeline
 
 The project follows a structured data workflow:
@@ -33,7 +67,7 @@ The project follows a structured data workflow:
 4. Aggregation to season-level metrics  
 5. Analytical modeling and visualization  
 
-The modular design ensures separation between data engineering, analysis, and presentation layers.
+The modular design ensures separation between data engineering, analytical computation, and presentation layers.
 
 ---
 
@@ -47,8 +81,9 @@ Derived structured features including:
 - Goal difference  
 - Cumulative season statistics  
 - Rolling averages (form indicators)  
+- Dominance index  
 
-These engineered features enable quantitative performance comparison across time.
+These engineered features enable quantitative comparison across competitive periods.
 
 ---
 
@@ -60,19 +95,23 @@ Techniques used:
 
 - Rolling mean  
 - Window-based aggregation  
-- Time-indexed analysis  
+- Time-indexed modeling  
 
-This enables detection of momentum shifts and performance instability periods.
+This enables detection of:
+
+- Momentum shifts  
+- Performance instability periods  
+- Structural turning points  
 
 ---
 
 ### 3. Era-Based Comparative Analysis
 
-Defined temporal segments representing different competitive phases and compared:
+Defined temporal segments representing competitive phases and compared:
 
 - Average points  
-- Average goals scored  
-- Goal differential trends  
+- Goal differential  
+- Dominance metrics  
 
 This enables structural performance comparison beyond isolated season-level evaluation.
 
@@ -80,11 +119,12 @@ This enables structural performance comparison beyond isolated season-level eval
 
 ### 4. Interactive Analytical Dashboard
 
-Developed an interactive dashboard using Streamlit to:
+Developed using Streamlit to:
 
-- Visualize long-term trends  
+- Visualize long-term season trends  
 - Explore rolling performance dynamics  
-- Compare metrics across eras  
+- Compare performance metrics across eras  
+- Adjust rolling window parameters interactively  
 
 The dashboard separates analytical computation from presentation logic.
 
@@ -109,7 +149,7 @@ fc-barcelona-performance-analytics/
 ├── app/                 # Streamlit application layer
 │   └── streamlit_app.py
 │
-├── data/                # Raw and processed datasets
+├── data/                # Raw and processed datasets (local)
 │   ├── raw/
 │   └── processed/
 │
@@ -118,7 +158,7 @@ fc-barcelona-performance-analytics/
 │   ├── analysis/        # Analytical computations
 │   └── report/          # Report generation
 │
-├── reports/             # Generated figures and reports
+├── reports/             # Dashboard previews
 │
 ├── requirements.txt
 └── README.md
@@ -132,12 +172,12 @@ The architecture emphasizes modularity, maintainability, and scalability.
 
 - Data preprocessing and cleaning  
 - Feature engineering  
-- Rolling time-series analysis  
+- Rolling time-series modeling  
 - Statistical aggregation  
-- Data visualization  
-- Modular Python project design  
-- Reproducible environment management  
-- Analytical storytelling through dashboards  
+- Comparative performance analysis  
+- Dashboard development  
+- Modular Python project architecture  
+- Analytical storytelling through visualization  
 
 ---
 
@@ -146,7 +186,7 @@ The architecture emphasizes modularity, maintainability, and scalability.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vaenvoice/fc-barcelona-performance-analytics.git
 cd fc-barcelona-performance-analytics
 ```
 
@@ -156,7 +196,7 @@ Create a virtual environment:
 python -m venv venv
 ```
 
-Activate the environment (Windows):
+Activate (Windows):
 
 ```bash
 venv\Scripts\activate
@@ -168,7 +208,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run the Streamlit application:
+Run the application:
 
 ```bash
 streamlit run app/streamlit_app.py
@@ -178,11 +218,11 @@ streamlit run app/streamlit_app.py
 
 ## Future Improvements
 
+- Elo-based team strength modeling  
 - Predictive modeling for match outcomes  
 - Expected goals (xG) efficiency comparison  
-- Elo-based team strength modeling  
 - Performance volatility index  
-- Model evaluation using cross-validation  
+- Cross-validation of predictive components  
 
 ---
 
@@ -190,3 +230,4 @@ streamlit run app/streamlit_app.py
 
 Vaenvoice  
 Undergraduate student focused on data science, statistical modeling, and applied analytics.
+
