@@ -55,21 +55,21 @@ highest_dom = season_df.loc[season_df["dominance_index"].idxmax()]
 
 with col1:
     st.metric(
-        "🏆 Best Season",
+        "Best Season",
         best_season["season"],
         f"{best_season['total_points']} pts"
     )
 
 with col2:
     st.metric(
-        "📉 Worst Season",
+        "Worst Season",
         worst_season["season"],
         f"{worst_season['total_points']} pts"
     )
 
 with col3:
     st.metric(
-        "🔥 Highest Dominance",
+        "Highest Dominance",
         highest_dom["season"],
         round(highest_dom["dominance_index"], 2)
     )
